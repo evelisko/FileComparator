@@ -1,0 +1,5 @@
+$ cat .gitignore
+.vs/
+bin/
+obj/
+*.~
